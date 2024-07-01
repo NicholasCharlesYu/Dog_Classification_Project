@@ -1,0 +1,13 @@
+*** Results Summary for CNN Model Architecture ***
+N Images            :  40
+N Dog Images        :  30
+N Not-Dog Images    :  10
+
+Model   |   pct_correct_notdogs |   pct_correct_dogs    |   pct_correct_breed   |   pct_match
+
+RESNET             90.0                     100.0                   90.0                82.5
+
+ALEXNET            100.0                    100.0                   80.0                75.0
+
+VGG                100.0                    100.0                   93.33               87.5
+
